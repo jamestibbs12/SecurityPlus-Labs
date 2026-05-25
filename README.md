@@ -38,3 +38,9 @@ Monitored the Kali terminal in real-time. Initiated data theft tools such as mic
 
 ![Attacker utilizes Meterpreter to monitor victim's activity](SecurityPlus/Phishing-Simulation/attacker_activity.png)
 
+
+---
+
+## 👥 Credits & Attributions
+* **Lab Curriculum & Design:** Sourced from the [CompTIA](https://www.comptia.org/) Security+ (SY0-701) certification hands-on learning materials.
+* **Implementation & Analysis:** Independent lab execution, environment configuration, and documentation completed by [James Tibbs](https://github.com/jamestibbs12).
